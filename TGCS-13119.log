@@ -1,0 +1,729 @@
+X Lossless Decoder version 20240511 (157.1)
+
+XLD extraction logfile from 2024-08-01 11:47:09 +0800
+
+多个表演者 / TVアニメ「ダンジョン飯」オリジナルサウンドトラック [Disc 2]
+
+Used drive : ASUS BW-16D1HT (revision 3.01)
+Media type : Pressed CD
+
+Ripper mode             : XLD Secure Ripper
+Disable audio cache     : OK for the drive with a cache less than 1375KiB
+Make use of C2 pointers : NO
+Read offset correction  : 6
+Max retry count         : 20
+Gap status              : Analyzed, Appended (except HTOA)
+
+TOC of the extracted CD
+     Track |   Start  |  Length  | Start sector | End sector 
+    ---------------------------------------------------------
+        1  | 00:00:00 | 01:57:28 |         0    |     8802   
+        2  | 01:57:28 | 01:35:51 |      8803    |    15978   
+        3  | 03:33:04 | 02:03:44 |     15979    |    25247   
+        4  | 05:36:48 | 01:43:13 |     25248    |    32985   
+        5  | 07:19:61 | 02:16:27 |     32986    |    43212   
+        6  | 09:36:13 | 01:42:56 |     43213    |    50918   
+        7  | 11:18:69 | 02:01:74 |     50919    |    60067   
+        8  | 13:20:68 | 02:26:61 |     60068    |    71078   
+        9  | 15:47:54 | 02:19:53 |     71079    |    81556   
+       10  | 18:07:32 | 01:59:23 |     81557    |    90504   
+       11  | 20:06:55 | 02:23:00 |     90505    |   101229   
+       12  | 22:29:55 | 01:53:50 |    101230    |   109754   
+       13  | 24:23:30 | 01:57:07 |    109755    |   118536   
+       14  | 26:20:37 | 01:47:12 |    118537    |   126573   
+       15  | 28:07:49 | 03:00:50 |    126574    |   140123   
+       16  | 31:08:24 | 02:03:68 |    140124    |   149416   
+       17  | 33:12:17 | 01:34:30 |    149417    |   156496   
+       18  | 34:46:47 | 02:29:25 |    156497    |   167696   
+       19  | 37:15:72 | 01:43:08 |    167697    |   175429   
+       20  | 38:59:05 | 01:54:39 |    175430    |   184018   
+       21  | 40:53:44 | 02:11:58 |    184019    |   193901   
+       22  | 43:05:27 | 01:58:40 |    193902    |   202791   
+       23  | 45:03:67 | 01:53:12 |    202792    |   211278   
+       24  | 46:57:04 | 01:44:48 |    211279    |   219126   
+       25  | 48:41:52 | 01:30:34 |    219127    |   225910   
+       26  | 50:12:11 | 02:02:41 |    225911    |   235101   
+       27  | 52:14:52 | 01:53:20 |    235102    |   243596   
+       28  | 54:07:72 | 01:37:15 |    243597    |   250886   
+       29  | 55:45:12 | 01:42:28 |    250887    |   258564   
+       30  | 57:27:40 | 02:13:41 |    258565    |   268580   
+       31  | 59:41:06 | 02:05:60 |    268581    |   278015   
+       32  | 61:46:66 | 01:57:54 |    278016    |   286844   
+       33  | 63:44:45 | 01:54:47 |    286845    |   295441   
+       34  | 65:39:17 | 01:49:70 |    295442    |   303686   
+       35  | 67:29:12 | 02:04:58 |    303687    |   313044   
+       36  | 69:33:70 | 02:02:17 |    313045    |   322211   
+       37  | 71:36:12 | 02:11:00 |    322212    |   332036   
+       38  | 73:47:12 | 01:52:62 |    332037    |   340498   
+
+AccurateRip Summary
+    Disc not found in AccurateRip DB.
+
+All Tracks
+    Album gain               : -1.21 dB
+    Peak                     : 0.980286
+    Statistics
+        Read error                           : 0
+        Jitter error (maybe fixed)           : 0
+        Retry sector count                   : 0
+        Damaged sector count                 : 0
+
+Track 01
+    Filename : /Users/Shared/XLD/Compilations - TVアニメ「ダンジョン飯」オリジナルサウンドトラック [Disc 2] (2024) [FLAC]/01. かつての栄花.flac
+    Pre-gap length : 00:02:00
+
+    Track gain               : 1.72 dB
+    Peak                     : 0.478943
+    CRC32 hash (test run)    : 8045F07D
+    CRC32 hash               : 8045F07D
+    CRC32 hash (skip zero)   : F13D6ED5
+    AccurateRip v1 signature : 0D0CD4CE
+    AccurateRip v2 signature : 2FC88FC8
+        ->Track not present in AccurateRip database.
+    Statistics
+        Read error                           : 0
+        Jitter error (maybe fixed)           : 0
+        Retry sector count                   : 0
+        Damaged sector count                 : 0
+
+Track 02
+    Filename : /Users/Shared/XLD/Compilations - TVアニメ「ダンジョン飯」オリジナルサウンドトラック [Disc 2] (2024) [FLAC]/02. 半信半疑.flac
+
+    Track gain               : -1.80 dB
+    Peak                     : 0.971161
+    CRC32 hash (test run)    : 749F17AE
+    CRC32 hash               : 749F17AE
+    CRC32 hash (skip zero)   : CC27954D
+    AccurateRip v1 signature : 97D42522
+    AccurateRip v2 signature : 7CD2E668
+        ->Track not present in AccurateRip database.
+    Statistics
+        Read error                           : 0
+        Jitter error (maybe fixed)           : 0
+        Retry sector count                   : 0
+        Damaged sector count                 : 0
+
+Track 03
+    Filename : /Users/Shared/XLD/Compilations - TVアニメ「ダンジョン飯」オリジナルサウンドトラック [Disc 2] (2024) [FLAC]/03. 天才的考察.flac
+
+    Track gain               : 0.94 dB
+    Peak                     : 0.731567
+    CRC32 hash (test run)    : A9538B90
+    CRC32 hash               : A9538B90
+    CRC32 hash (skip zero)   : 22561537
+    AccurateRip v1 signature : EEBA7B90
+    AccurateRip v2 signature : 186EBBF5
+        ->Track not present in AccurateRip database.
+    Statistics
+        Read error                           : 0
+        Jitter error (maybe fixed)           : 0
+        Retry sector count                   : 0
+        Damaged sector count                 : 0
+
+Track 04
+    Filename : /Users/Shared/XLD/Compilations - TVアニメ「ダンジョン飯」オリジナルサウンドトラック [Disc 2] (2024) [FLAC]/04. 非常事態.flac
+
+    Track gain               : -0.89 dB
+    Peak                     : 0.980286
+    CRC32 hash (test run)    : E3356D8F
+    CRC32 hash               : E3356D8F
+    CRC32 hash (skip zero)   : 69F4C386
+    AccurateRip v1 signature : 0DFEB22D
+    AccurateRip v2 signature : 36100DE3
+        ->Track not present in AccurateRip database.
+    Statistics
+        Read error                           : 0
+        Jitter error (maybe fixed)           : 0
+        Retry sector count                   : 0
+        Damaged sector count                 : 0
+
+Track 05
+    Filename : /Users/Shared/XLD/Compilations - TVアニメ「ダンジョン飯」オリジナルサウンドトラック [Disc 2] (2024) [FLAC]/05. 陰謀と嘘と噂.flac
+
+    Track gain               : 3.45 dB
+    Peak                     : 0.436432
+    CRC32 hash (test run)    : C0CA0D01
+    CRC32 hash               : C0CA0D01
+    CRC32 hash (skip zero)   : 4CC02D6F
+    AccurateRip v1 signature : 90404517
+    AccurateRip v2 signature : 69154462
+        ->Track not present in AccurateRip database.
+    Statistics
+        Read error                           : 0
+        Jitter error (maybe fixed)           : 0
+        Retry sector count                   : 0
+        Damaged sector count                 : 0
+
+Track 06
+    Filename : /Users/Shared/XLD/Compilations - TVアニメ「ダンジョン飯」オリジナルサウンドトラック [Disc 2] (2024) [FLAC]/06. 一人よがり.flac
+
+    Track gain               : 0.38 dB
+    Peak                     : 0.934601
+    CRC32 hash (test run)    : 0F68C615
+    CRC32 hash               : 0F68C615
+    CRC32 hash (skip zero)   : B00BC1F6
+    AccurateRip v1 signature : C0B8F68B
+    AccurateRip v2 signature : 33FCAD26
+        ->Track not present in AccurateRip database.
+    Statistics
+        Read error                           : 0
+        Jitter error (maybe fixed)           : 0
+        Retry sector count                   : 0
+        Damaged sector count                 : 0
+
+Track 07
+    Filename : /Users/Shared/XLD/Compilations - TVアニメ「ダンジョン飯」オリジナルサウンドトラック [Disc 2] (2024) [FLAC]/07. 黒魔術.flac
+    Pre-gap length : 00:01:15
+
+    Track gain               : -3.79 dB
+    Peak                     : 0.927032
+    CRC32 hash (test run)    : FDF05561
+    CRC32 hash               : FDF05561
+    CRC32 hash (skip zero)   : 92D06E8D
+    AccurateRip v1 signature : C888B9B1
+    AccurateRip v2 signature : 317882BF
+        ->Track not present in AccurateRip database.
+    Statistics
+        Read error                           : 0
+        Jitter error (maybe fixed)           : 0
+        Retry sector count                   : 0
+        Damaged sector count                 : 0
+
+Track 08
+    Filename : /Users/Shared/XLD/Compilations - TVアニメ「ダンジョン飯」オリジナルサウンドトラック [Disc 2] (2024) [FLAC]/08. シスルとマルシル.flac
+
+    Track gain               : -3.27 dB
+    Peak                     : 0.882751
+    CRC32 hash (test run)    : BCE313EA
+    CRC32 hash               : BCE313EA
+    CRC32 hash (skip zero)   : 029A6B4E
+    AccurateRip v1 signature : 7C5B3FB2
+    AccurateRip v2 signature : E7A2D6F5
+        ->Track not present in AccurateRip database.
+    Statistics
+        Read error                           : 0
+        Jitter error (maybe fixed)           : 0
+        Retry sector count                   : 0
+        Damaged sector count                 : 0
+
+Track 09
+    Filename : /Users/Shared/XLD/Compilations - TVアニメ「ダンジョン飯」オリジナルサウンドトラック [Disc 2] (2024) [FLAC]/09. 狂乱の魔術師.flac
+    Pre-gap length : 00:01:32
+
+    Track gain               : -3.70 dB
+    Peak                     : 0.953339
+    CRC32 hash (test run)    : 9925C29F
+    CRC32 hash               : 9925C29F
+    CRC32 hash (skip zero)   : 7DC1A62C
+    AccurateRip v1 signature : EAF8135E
+    AccurateRip v2 signature : 01D93BB4
+        ->Track not present in AccurateRip database.
+    Statistics
+        Read error                           : 0
+        Jitter error (maybe fixed)           : 0
+        Retry sector count                   : 0
+        Damaged sector count                 : 0
+
+Track 10
+    Filename : /Users/Shared/XLD/Compilations - TVアニメ「ダンジョン飯」オリジナルサウンドトラック [Disc 2] (2024) [FLAC]/10. 限られた時の中で.flac
+
+    Track gain               : -3.16 dB
+    Peak                     : 0.978088
+    CRC32 hash (test run)    : 9A5573DF
+    CRC32 hash               : 9A5573DF
+    CRC32 hash (skip zero)   : 449A66F9
+    AccurateRip v1 signature : E821C34A
+    AccurateRip v2 signature : F52A8C15
+        ->Track not present in AccurateRip database.
+    Statistics
+        Read error                           : 0
+        Jitter error (maybe fixed)           : 0
+        Retry sector count                   : 0
+        Damaged sector count                 : 0
+
+Track 11
+    Filename : /Users/Shared/XLD/Compilations - TVアニメ「ダンジョン飯」オリジナルサウンドトラック [Disc 2] (2024) [FLAC]/11. 敵意.flac
+
+    Track gain               : 0.31 dB
+    Peak                     : 0.839172
+    CRC32 hash (test run)    : F34ED40B
+    CRC32 hash               : F34ED40B
+    CRC32 hash (skip zero)   : 86433E54
+    AccurateRip v1 signature : 5929B9E8
+    AccurateRip v2 signature : 8A5C483E
+        ->Track not present in AccurateRip database.
+    Statistics
+        Read error                           : 0
+        Jitter error (maybe fixed)           : 0
+        Retry sector count                   : 0
+        Damaged sector count                 : 0
+
+Track 12
+    Filename : /Users/Shared/XLD/Compilations - TVアニメ「ダンジョン飯」オリジナルサウンドトラック [Disc 2] (2024) [FLAC]/12. 混迷した策謀.flac
+
+    Track gain               : -0.17 dB
+    Peak                     : 0.901611
+    CRC32 hash (test run)    : EA929FA7
+    CRC32 hash               : EA929FA7
+    CRC32 hash (skip zero)   : 3D8F8FD5
+    AccurateRip v1 signature : 39D6FF66
+    AccurateRip v2 signature : 64079C2A
+        ->Track not present in AccurateRip database.
+    Statistics
+        Read error                           : 0
+        Jitter error (maybe fixed)           : 0
+        Retry sector count                   : 0
+        Damaged sector count                 : 0
+
+Track 13
+    Filename : /Users/Shared/XLD/Compilations - TVアニメ「ダンジョン飯」オリジナルサウンドトラック [Disc 2] (2024) [FLAC]/13. 奇妙な生き物.flac
+
+    Track gain               : 2.02 dB
+    Peak                     : 0.759003
+    CRC32 hash (test run)    : 0D6AFB6D
+    CRC32 hash               : 0D6AFB6D
+    CRC32 hash (skip zero)   : E8DCAF88
+    AccurateRip v1 signature : 352CFCA9
+    AccurateRip v2 signature : 5AD1C04A
+        ->Track not present in AccurateRip database.
+    Statistics
+        Read error                           : 0
+        Jitter error (maybe fixed)           : 0
+        Retry sector count                   : 0
+        Damaged sector count                 : 0
+
+Track 14
+    Filename : /Users/Shared/XLD/Compilations - TVアニメ「ダンジョン飯」オリジナルサウンドトラック [Disc 2] (2024) [FLAC]/14. 告げられた実情.flac
+
+    Track gain               : 2.30 dB
+    Peak                     : 0.541443
+    CRC32 hash (test run)    : 5E25A3BB
+    CRC32 hash               : 5E25A3BB
+    CRC32 hash (skip zero)   : 36531D15
+    AccurateRip v1 signature : 5E39569A
+    AccurateRip v2 signature : 76B40917
+        ->Track not present in AccurateRip database.
+    Statistics
+        Read error                           : 0
+        Jitter error (maybe fixed)           : 0
+        Retry sector count                   : 0
+        Damaged sector count                 : 0
+
+Track 15
+    Filename : /Users/Shared/XLD/Compilations - TVアニメ「ダンジョン飯」オリジナルサウンドトラック [Disc 2] (2024) [FLAC]/15. 気掛かり.flac
+
+    Track gain               : 4.20 dB
+    Peak                     : 0.452332
+    CRC32 hash (test run)    : DDE02389
+    CRC32 hash               : DDE02389
+    CRC32 hash (skip zero)   : 8DFFF498
+    AccurateRip v1 signature : 4A2F014B
+    AccurateRip v2 signature : C6F08356
+        ->Track not present in AccurateRip database.
+    Statistics
+        Read error                           : 0
+        Jitter error (maybe fixed)           : 0
+        Retry sector count                   : 0
+        Damaged sector count                 : 0
+
+Track 16
+    Filename : /Users/Shared/XLD/Compilations - TVアニメ「ダンジョン飯」オリジナルサウンドトラック [Disc 2] (2024) [FLAC]/16. 冒険者たちの信頼.flac
+
+    Track gain               : 6.85 dB
+    Peak                     : 0.343811
+    CRC32 hash (test run)    : E3EA55A8
+    CRC32 hash               : E3EA55A8
+    CRC32 hash (skip zero)   : 8475A72E
+    AccurateRip v1 signature : D44785F5
+    AccurateRip v2 signature : 8D2CC612
+        ->Track not present in AccurateRip database.
+    Statistics
+        Read error                           : 0
+        Jitter error (maybe fixed)           : 0
+        Retry sector count                   : 0
+        Damaged sector count                 : 0
+
+Track 17
+    Filename : /Users/Shared/XLD/Compilations - TVアニメ「ダンジョン飯」オリジナルサウンドトラック [Disc 2] (2024) [FLAC]/17. 夢魔.flac
+
+    Track gain               : 2.29 dB
+    Peak                     : 0.871582
+    CRC32 hash (test run)    : 7C06B9E7
+    CRC32 hash               : 7C06B9E7
+    CRC32 hash (skip zero)   : D4AF400D
+    AccurateRip v1 signature : D6E38B08
+    AccurateRip v2 signature : C90CDB49
+        ->Track not present in AccurateRip database.
+    Statistics
+        Read error                           : 0
+        Jitter error (maybe fixed)           : 0
+        Retry sector count                   : 0
+        Damaged sector count                 : 0
+
+Track 18
+    Filename : /Users/Shared/XLD/Compilations - TVアニメ「ダンジョン飯」オリジナルサウンドトラック [Disc 2] (2024) [FLAC]/18. 衰弱.flac
+
+    Track gain               : 6.22 dB
+    Peak                     : 0.380341
+    CRC32 hash (test run)    : 6110430B
+    CRC32 hash               : 6110430B
+    CRC32 hash (skip zero)   : 03211C8B
+    AccurateRip v1 signature : 29C89DC1
+    AccurateRip v2 signature : 72A24976
+        ->Track not present in AccurateRip database.
+    Statistics
+        Read error                           : 0
+        Jitter error (maybe fixed)           : 0
+        Retry sector count                   : 0
+        Damaged sector count                 : 0
+
+Track 19
+    Filename : /Users/Shared/XLD/Compilations - TVアニメ「ダンジョン飯」オリジナルサウンドトラック [Disc 2] (2024) [FLAC]/19. 奇襲.flac
+
+    Track gain               : -5.28 dB
+    Peak                     : 0.928772
+    CRC32 hash (test run)    : 04D05225
+    CRC32 hash               : 04D05225
+    CRC32 hash (skip zero)   : E5BA4441
+    AccurateRip v1 signature : 108C6FC0
+    AccurateRip v2 signature : 2DD248AE
+        ->Track not present in AccurateRip database.
+    Statistics
+        Read error                           : 0
+        Jitter error (maybe fixed)           : 0
+        Retry sector count                   : 0
+        Damaged sector count                 : 0
+
+Track 20
+    Filename : /Users/Shared/XLD/Compilations - TVアニメ「ダンジョン飯」オリジナルサウンドトラック [Disc 2] (2024) [FLAC]/20. 目まぐるしい攻防.flac
+
+    Track gain               : -3.46 dB
+    Peak                     : 0.902252
+    CRC32 hash (test run)    : DABB75CF
+    CRC32 hash               : DABB75CF
+    CRC32 hash (skip zero)   : F0320B73
+    AccurateRip v1 signature : 10591829
+    AccurateRip v2 signature : 05F12ADE
+        ->Track not present in AccurateRip database.
+    Statistics
+        Read error                           : 0
+        Jitter error (maybe fixed)           : 0
+        Retry sector count                   : 0
+        Damaged sector count                 : 0
+
+Track 21
+    Filename : /Users/Shared/XLD/Compilations - TVアニメ「ダンジョン飯」オリジナルサウンドトラック [Disc 2] (2024) [FLAC]/21. カナリア隊.flac
+
+    Track gain               : 1.95 dB
+    Peak                     : 0.696777
+    CRC32 hash (test run)    : C6D46DE4
+    CRC32 hash               : C6D46DE4
+    CRC32 hash (skip zero)   : 80A88420
+    AccurateRip v1 signature : 2528D131
+    AccurateRip v2 signature : 9B1F0BC8
+        ->Track not present in AccurateRip database.
+    Statistics
+        Read error                           : 0
+        Jitter error (maybe fixed)           : 0
+        Retry sector count                   : 0
+        Damaged sector count                 : 0
+
+Track 22
+    Filename : /Users/Shared/XLD/Compilations - TVアニメ「ダンジョン飯」オリジナルサウンドトラック [Disc 2] (2024) [FLAC]/22. 幻想に踊らされし魔物たち.flac
+
+    Track gain               : 1.90 dB
+    Peak                     : 0.599243
+    CRC32 hash (test run)    : 3F44C7CC
+    CRC32 hash               : 3F44C7CC
+    CRC32 hash (skip zero)   : 8EC1F8C7
+    AccurateRip v1 signature : B6DDF7F1
+    AccurateRip v2 signature : 630369D3
+        ->Track not present in AccurateRip database.
+    Statistics
+        Read error                           : 0
+        Jitter error (maybe fixed)           : 0
+        Retry sector count                   : 0
+        Damaged sector count                 : 0
+
+Track 23
+    Filename : /Users/Shared/XLD/Compilations - TVアニメ「ダンジョン飯」オリジナルサウンドトラック [Disc 2] (2024) [FLAC]/23. 絶体絶命の散じ.flac
+    Pre-gap length : 00:01:32
+
+    Track gain               : -4.89 dB
+    Peak                     : 0.879028
+    CRC32 hash (test run)    : 3A7B3E0E
+    CRC32 hash               : 3A7B3E0E
+    CRC32 hash (skip zero)   : CAF332D0
+    AccurateRip v1 signature : 2BB0B912
+    AccurateRip v2 signature : 13221F7A
+        ->Track not present in AccurateRip database.
+    Statistics
+        Read error                           : 0
+        Jitter error (maybe fixed)           : 0
+        Retry sector count                   : 0
+        Damaged sector count                 : 0
+
+Track 24
+    Filename : /Users/Shared/XLD/Compilations - TVアニメ「ダンジョン飯」オリジナルサウンドトラック [Disc 2] (2024) [FLAC]/24. 迷宮の行末.flac
+
+    Track gain               : 1.32 dB
+    Peak                     : 0.722412
+    CRC32 hash (test run)    : 1D04E8B1
+    CRC32 hash               : 1D04E8B1
+    CRC32 hash (skip zero)   : 32C0C189
+    AccurateRip v1 signature : 7CE1F968
+    AccurateRip v2 signature : A8ECCFFC
+        ->Track not present in AccurateRip database.
+    Statistics
+        Read error                           : 0
+        Jitter error (maybe fixed)           : 0
+        Retry sector count                   : 0
+        Damaged sector count                 : 0
+
+Track 25
+    Filename : /Users/Shared/XLD/Compilations - TVアニメ「ダンジョン飯」オリジナルサウンドトラック [Disc 2] (2024) [FLAC]/25. 酷薄な駆け引き.flac
+
+    Track gain               : 1.85 dB
+    Peak                     : 0.737305
+    CRC32 hash (test run)    : 9D142CB1
+    CRC32 hash               : 9D142CB1
+    CRC32 hash (skip zero)   : A48A6C85
+    AccurateRip v1 signature : 7CF8D053
+    AccurateRip v2 signature : 2BE43F37
+        ->Track not present in AccurateRip database.
+    Statistics
+        Read error                           : 0
+        Jitter error (maybe fixed)           : 0
+        Retry sector count                   : 0
+        Damaged sector count                 : 0
+
+Track 26
+    Filename : /Users/Shared/XLD/Compilations - TVアニメ「ダンジョン飯」オリジナルサウンドトラック [Disc 2] (2024) [FLAC]/26. 美味しさの極み.flac
+
+    Track gain               : -1.44 dB
+    Peak                     : 0.825684
+    CRC32 hash (test run)    : 27E796A9
+    CRC32 hash               : 27E796A9
+    CRC32 hash (skip zero)   : B3038ACC
+    AccurateRip v1 signature : 2E5CC30F
+    AccurateRip v2 signature : 08EDCE42
+        ->Track not present in AccurateRip database.
+    Statistics
+        Read error                           : 0
+        Jitter error (maybe fixed)           : 0
+        Retry sector count                   : 0
+        Damaged sector count                 : 0
+
+Track 27
+    Filename : /Users/Shared/XLD/Compilations - TVアニメ「ダンジョン飯」オリジナルサウンドトラック [Disc 2] (2024) [FLAC]/27. ドタバタ奮闘.flac
+
+    Track gain               : -4.83 dB
+    Peak                     : 0.846710
+    CRC32 hash (test run)    : 26EA46A4
+    CRC32 hash               : 26EA46A4
+    CRC32 hash (skip zero)   : 20FF92EC
+    AccurateRip v1 signature : 3BEF413F
+    AccurateRip v2 signature : 4F9F0CA1
+        ->Track not present in AccurateRip database.
+    Statistics
+        Read error                           : 0
+        Jitter error (maybe fixed)           : 0
+        Retry sector count                   : 0
+        Damaged sector count                 : 0
+
+Track 28
+    Filename : /Users/Shared/XLD/Compilations - TVアニメ「ダンジョン飯」オリジナルサウンドトラック [Disc 2] (2024) [FLAC]/28. 明るい食卓.flac
+
+    Track gain               : -1.00 dB
+    Peak                     : 0.750305
+    CRC32 hash (test run)    : A0AD7398
+    CRC32 hash               : A0AD7398
+    CRC32 hash (skip zero)   : 05CF7901
+    AccurateRip v1 signature : C821D144
+    AccurateRip v2 signature : 15BF0ECC
+        ->Track not present in AccurateRip database.
+    Statistics
+        Read error                           : 0
+        Jitter error (maybe fixed)           : 0
+        Retry sector count                   : 0
+        Damaged sector count                 : 0
+
+Track 29
+    Filename : /Users/Shared/XLD/Compilations - TVアニメ「ダンジョン飯」オリジナルサウンドトラック [Disc 2] (2024) [FLAC]/29. 東方隠密部隊.flac
+    Pre-gap length : 00:01:26
+
+    Track gain               : -2.26 dB
+    Peak                     : 0.923859
+    CRC32 hash (test run)    : 0AE56BC8
+    CRC32 hash               : 0AE56BC8
+    CRC32 hash (skip zero)   : 6BE141CE
+    AccurateRip v1 signature : 06A0331F
+    AccurateRip v2 signature : 5B6A80D8
+        ->Track not present in AccurateRip database.
+    Statistics
+        Read error                           : 0
+        Jitter error (maybe fixed)           : 0
+        Retry sector count                   : 0
+        Damaged sector count                 : 0
+
+Track 30
+    Filename : /Users/Shared/XLD/Compilations - TVアニメ「ダンジョン飯」オリジナルサウンドトラック [Disc 2] (2024) [FLAC]/30. キメラファリン.flac
+    Pre-gap length : 00:01:50
+
+    Track gain               : -4.56 dB
+    Peak                     : 0.885345
+    CRC32 hash (test run)    : 407690D0
+    CRC32 hash               : 407690D0
+    CRC32 hash (skip zero)   : 410A8B60
+    AccurateRip v1 signature : 92E06AFE
+    AccurateRip v2 signature : A88FC807
+        ->Track not present in AccurateRip database.
+    Statistics
+        Read error                           : 0
+        Jitter error (maybe fixed)           : 0
+        Retry sector count                   : 0
+        Damaged sector count                 : 0
+
+Track 31
+    Filename : /Users/Shared/XLD/Compilations - TVアニメ「ダンジョン飯」オリジナルサウンドトラック [Disc 2] (2024) [FLAC]/31. 冷酷な世界.flac
+
+    Track gain               : 1.06 dB
+    Peak                     : 0.647003
+    CRC32 hash (test run)    : F2B3FA2D
+    CRC32 hash               : F2B3FA2D
+    CRC32 hash (skip zero)   : 8F17C971
+    AccurateRip v1 signature : 345AD207
+    AccurateRip v2 signature : 9014C54F
+        ->Track not present in AccurateRip database.
+    Statistics
+        Read error                           : 0
+        Jitter error (maybe fixed)           : 0
+        Retry sector count                   : 0
+        Damaged sector count                 : 0
+
+Track 32
+    Filename : /Users/Shared/XLD/Compilations - TVアニメ「ダンジョン飯」オリジナルサウンドトラック [Disc 2] (2024) [FLAC]/32. 優しき語らい.flac
+
+    Track gain               : 3.09 dB
+    Peak                     : 0.552795
+    CRC32 hash (test run)    : EEE060D3
+    CRC32 hash               : EEE060D3
+    CRC32 hash (skip zero)   : D69C5111
+    AccurateRip v1 signature : EDA27D67
+    AccurateRip v2 signature : F565A684
+        ->Track not present in AccurateRip database.
+    Statistics
+        Read error                           : 0
+        Jitter error (maybe fixed)           : 0
+        Retry sector count                   : 0
+        Damaged sector count                 : 0
+
+Track 33
+    Filename : /Users/Shared/XLD/Compilations - TVアニメ「ダンジョン飯」オリジナルサウンドトラック [Disc 2] (2024) [FLAC]/33. 心の共鳴.flac
+
+    Track gain               : 2.93 dB
+    Peak                     : 0.545471
+    CRC32 hash (test run)    : 269193EE
+    CRC32 hash               : 269193EE
+    CRC32 hash (skip zero)   : 4780E9A5
+    AccurateRip v1 signature : D5B7FFBD
+    AccurateRip v2 signature : 3F582787
+        ->Track not present in AccurateRip database.
+    Statistics
+        Read error                           : 0
+        Jitter error (maybe fixed)           : 0
+        Retry sector count                   : 0
+        Damaged sector count                 : 0
+
+Track 34
+    Filename : /Users/Shared/XLD/Compilations - TVアニメ「ダンジョン飯」オリジナルサウンドトラック [Disc 2] (2024) [FLAC]/34. ある過去の疑念.flac
+
+    Track gain               : 0.45 dB
+    Peak                     : 0.977234
+    CRC32 hash (test run)    : EDCDE6E5
+    CRC32 hash               : EDCDE6E5
+    CRC32 hash (skip zero)   : 6CBF929F
+    AccurateRip v1 signature : 9CA1EA46
+    AccurateRip v2 signature : 7CD2E210
+        ->Track not present in AccurateRip database.
+    Statistics
+        Read error                           : 0
+        Jitter error (maybe fixed)           : 0
+        Retry sector count                   : 0
+        Damaged sector count                 : 0
+
+Track 35
+    Filename : /Users/Shared/XLD/Compilations - TVアニメ「ダンジョン飯」オリジナルサウンドトラック [Disc 2] (2024) [FLAC]/35. 平和な村メリニ.flac
+
+    Track gain               : -2.99 dB
+    Peak                     : 0.914337
+    CRC32 hash (test run)    : 5E517B90
+    CRC32 hash               : 5E517B90
+    CRC32 hash (skip zero)   : 2B317C9F
+    AccurateRip v1 signature : B891B31C
+    AccurateRip v2 signature : 37192232
+        ->Track not present in AccurateRip database.
+    Statistics
+        Read error                           : 0
+        Jitter error (maybe fixed)           : 0
+        Retry sector count                   : 0
+        Damaged sector count                 : 0
+
+Track 36
+    Filename : /Users/Shared/XLD/Compilations - TVアニメ「ダンジョン飯」オリジナルサウンドトラック [Disc 2] (2024) [FLAC]/36. 生い立ち.flac
+
+    Track gain               : 4.35 dB
+    Peak                     : 0.313843
+    CRC32 hash (test run)    : CB187A5E
+    CRC32 hash               : CB187A5E
+    CRC32 hash (skip zero)   : 82E6AD87
+    AccurateRip v1 signature : EF512049
+    AccurateRip v2 signature : 7000BDDC
+        ->Track not present in AccurateRip database.
+    Statistics
+        Read error                           : 0
+        Jitter error (maybe fixed)           : 0
+        Retry sector count                   : 0
+        Damaged sector count                 : 0
+
+Track 37
+    Filename : /Users/Shared/XLD/Compilations - TVアニメ「ダンジョン飯」オリジナルサウンドトラック [Disc 2] (2024) [FLAC]/37. 虚しき言い争い.flac
+
+    Track gain               : 1.77 dB
+    Peak                     : 0.698761
+    CRC32 hash (test run)    : 66FD45BE
+    CRC32 hash               : 66FD45BE
+    CRC32 hash (skip zero)   : 6A599665
+    AccurateRip v1 signature : CD9ECC5A
+    AccurateRip v2 signature : 296E4A57
+        ->Track not present in AccurateRip database.
+    Statistics
+        Read error                           : 0
+        Jitter error (maybe fixed)           : 0
+        Retry sector count                   : 0
+        Damaged sector count                 : 0
+
+Track 38
+    Filename : /Users/Shared/XLD/Compilations - TVアニメ「ダンジョン飯」オリジナルサウンドトラック [Disc 2] (2024) [FLAC]/38. 儚い生命.flac
+
+    Track gain               : 3.52 dB
+    Peak                     : 0.504456
+    CRC32 hash (test run)    : ADBE7127
+    CRC32 hash               : ADBE7127
+    CRC32 hash (skip zero)   : 15C8F33E
+    AccurateRip v1 signature : 2CFB3DFB
+    AccurateRip v2 signature : 216422A6
+        ->Track not present in AccurateRip database.
+    Statistics
+        Read error                           : 0
+        Jitter error (maybe fixed)           : 0
+        Retry sector count                   : 0
+        Damaged sector count                 : 0
+
+No errors occurred
+
+End of status report
+
+-----BEGIN XLD SIGNATURE-----
+YZySGiIe_vONS.a49kk.ZdjJiBFzPFM82sK.RAraau4NTN6_zWhZqzPc7E5IJZUCC2AYBrso6hIOI0qdq2eJX3sATtvMQpcD8j2Z_Ra
+-----END XLD SIGNATURE-----
